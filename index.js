@@ -23,7 +23,7 @@ connectDB();
 
 // Cấu hình CORS
 app.use(cors({
-  origin: 'http://localhost:3000', // URL của frontend
+  origin: 'http://localhost:3001', // URL của frontend
   credentials: true, // Cho phép gửi credentials (cookies, authorization headers)
   methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
   allowedHeaders: ['Content-Type', 'Authorization']
