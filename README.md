@@ -1,7 +1,5 @@
 # Quản Lý Chi Tiêu Cá Nhân
 
-![Quản Lý Chi Tiêu Cá Nhân](https://i.imgur.com/placeholder.png)
-
 Ứng dụng web giúp người dùng theo dõi, phân tích và tối ưu hóa chi tiêu cá nhân một cách dễ dàng và hiệu quả.
 
 ## 📋 Tính năng chính
